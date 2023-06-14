@@ -4,7 +4,7 @@ safe-pass é um gerador de senhas seguro e flexível, escrito em Python, que per
 
 ## Tecnologias Utilizadas
 
-### O projeto SecurePassGen foi desenvolvido utilizando as seguintes tecnologias:
+### O projeto Safe pass foi desenvolvido utilizando as seguintes tecnologias:
 
 - Python
 - Biblioteca `secrets`: uma biblioteca Python para geração segura de números aleatórios.
