@@ -10,7 +10,7 @@ safe-pass é um gerador de senhas seguro e flexível, escrito em Python, que per
 - Biblioteca `secrets`: uma biblioteca Python para geração segura de números aleatórios.
 - Biblioteca `string`: uma biblioteca Python que fornece várias constantes e funções úteis para manipulação de strings.
 
-### Como Usar
+## Como Usar
 
 Certifique-se de ter o Python instalado em sua máquina. Você pode baixar e instalar o Python a partir do site oficial: python.org.
 
